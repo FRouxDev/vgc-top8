@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "sass": "^1.54.5",
+    "typescript-eslint-parser": "^22.0.0",
+    "vue-eslint-parser": "^9.0.3"
+  }
+}
